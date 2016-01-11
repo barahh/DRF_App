@@ -1,6 +1,6 @@
 # DRF_App
 
-$ virtualenv Project
+$ virtualenv Project <br>
 $ cd Project
 $ . bin/activate
 $ python -c "import django; print(django.get_version())"
