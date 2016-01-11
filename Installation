@@ -8,4 +8,4 @@ $ pip install djangorestframework<br>
 $ pip install markdown       # Markdown support for the browsable API.<br>
 $ pip install django-filter  # Filtering support<br>
 
-$ django-admin startproject todo<br>
+$ django-admin startproject <Project Name><br>
