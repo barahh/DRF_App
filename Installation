@@ -9,3 +9,6 @@ $ pip install markdown       # Markdown support for the browsable API.<br>
 $ pip install django-filter  # Filtering support<br>
 
 $ django-admin startproject <Project Name><br>
+$ cd <Project Name><br>
+$ python manage.py migrate
+$ python manage.py createsuperuser
