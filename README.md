@@ -9,4 +9,4 @@ $ pip install djangorestframework<br>
 $ pip install markdown       # Markdown support for the browsable API.<br>
 $ pip install django-filter  # Filtering support<br>
 
-$ djangoa-dmin startproject todo<br>
+$ django-admin startproject todo<br>
