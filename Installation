@@ -1,15 +1,15 @@
 
-$ virtualenv <Project Name> <br>
-$ cd <Project Name><br>
-$ . bin/activate<br>
-$ python -c "import django; print(django.get_version())"<br>
-$ pip install django<br>
-$ pip install djangorestframework<br>
-$ pip install markdown       # Markdown support for the browsable API.<br>
-$ pip install django-filter  # Filtering support<br>
+$ virtualenv <Project Name>
+$ cd <Project Name>
+$ . bin/activate
+$ python -c "import django; print(django.get_version())"
+$ pip install django
+$ pip install djangorestframework
+$ pip install markdown       # Markdown support for the browsable API.
+$ pip install django-filter  # Filtering support
 
-$ django-admin startproject <Project Name><br>
-$ cd <Project Name><br>
+$ django-admin startproject <Project Name>
+$ cd <Project Name>
 $ python manage.py migrate
 $ python manage.py createsuperuser
 $ python manage.py startapp main
